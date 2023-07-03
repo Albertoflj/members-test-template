@@ -214,5 +214,8 @@
     "branch": "develop",
     "develop": false,
     "path": "src"
+  },
+  "card-listing-variation": {
+    "local": "addons/card-listing-variation/src"
   }
 }

@@ -1,9 +1,16 @@
 {
   "compilerOptions": {
     "paths": {
-      "@plone-collective/volto-datatable-tutorial": ["addons/volto-datatable-tutorial/src"],
+      "@plone-collective/volto-datatable-tutorial": [
+        "addons/volto-datatable-tutorial/src"
+      ],
       "@plone-collective/volto-other-addon": ["addons/volto-other-addon/src"],
-      "@plone-collective/volto-members-listing-variation": ["addons/volto-members-listing-variation/src"]
+      "@plone-collective/volto-members-listing-variation": [
+        "addons/volto-members-listing-variation/src"
+      ],
+      "@plone-collective/volto-card-listing-variation": [
+        "addons/volto-card-listing-variation/src"
+      ]
     },
     "baseUrl": "src"
   }

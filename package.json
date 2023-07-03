@@ -29,13 +29,15 @@
     "src/addons/*",
     "src/addons/volto-datatable-tutorial",
     "src/addons/volto-other-addon",
-    "src/addons/volto-members-listing-variation"
+    "src/addons/volto-members-listing-variation",
+    "src/addons/volto-card-listing-variation"
   ],
   "addons": [
     "@eeacms/volto-eea-kitkat",
     "@plone-collective/volto-datatable-tutorial",
     "@plone-collective/volto-other-addon",
-    "@plone-collective/volto-members-listing-variation"
+    "@plone-collective/volto-members-listing-variation",
+    "@plone-collective/volto-card-listing-variation"
   ],
   "jest": {
     "modulePathIgnorePatterns": [
